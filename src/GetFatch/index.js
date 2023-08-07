@@ -1,1 +1,1 @@
-export { image_api } from '../GetFatch/image_api.jsx';
+export {image_api} from '../GetFatch/image_api.jsx';

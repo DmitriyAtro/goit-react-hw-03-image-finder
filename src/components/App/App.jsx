@@ -163,3 +163,4 @@ class App extends Component {
 
 export default App;
 
+// status{'idle', 'pending', 'rejected', 'resolved'}
